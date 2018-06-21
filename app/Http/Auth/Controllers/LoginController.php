@@ -1,8 +1,8 @@
 <?php
 
-namespace App\Http\Controllers\Auth;
+namespace NoisyState\Http\Auth\Controllers;
 
-use App\Http\Controllers\Controller;
+use NoisyState\App\Controllers\Controller;
 use Illuminate\Foundation\Auth\AuthenticatesUsers;
 
 class LoginController extends Controller
